@@ -53,7 +53,7 @@ python fuzzer.py -u https://Facebook.comFUZZ -w LFI%20payloads.txt -v
 # Updated On
 
 ``
-June 14, 2025  12:00
+June 14, 2025  13:00
 ``
 
 <br>
