@@ -43,6 +43,13 @@ cd FUZZING
 
 <br>
 
+# Example 
+```bash
+python fuzzer.py -u https://Facebook.comFUZZ -w LFI%20payloads.txt -v
+```
+
+<br>
+
 # Updated On
 
 ``
