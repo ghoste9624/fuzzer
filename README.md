@@ -26,6 +26,10 @@ python fuzzer.py -h
 
 <br>
 
+[alt text](https://github.com/ghoste9624/fuzzer/blob/main/files%2FScreenshot_20250614-113845_Photos.jpg)
+
+<br>
+
 # Updated On 
 
 ``
