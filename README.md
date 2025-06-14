@@ -6,11 +6,12 @@ Automates the process of testing a website by systematically trying different va
 # Dependencies 
 ```bash
 apt install git python curl wget -y
+```
 
 <br>
 
 # Run Updates 
-```
+```bash
 apt update ; apt upgrade -y
 ```
 
