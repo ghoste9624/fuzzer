@@ -20,6 +20,7 @@ apt update ; apt upgrade -y
 
 <br>
 
+# Installation 
 ```bash
 git clone https://github.com/ghoste9624/fuzzer
 cd fuzzer
