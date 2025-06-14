@@ -5,6 +5,9 @@ Automates the process of testing a website by systematically trying different va
 
 # Dependencies 
 ```bash
+pip install requests
+```
+```bash
 apt install git python curl wget -y
 ```
 
